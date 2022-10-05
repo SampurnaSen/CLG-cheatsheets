@@ -30,7 +30,7 @@ Note: Java and JavaScript are not the same. Java is a programming language where
     -  is a valid set of literals and expressions that evaluate to a single value that is an expression.
     For example: 5 + 5 = 10
 - JS statements
-    - is used to control the flow of a script or a programhe and rely on conditions.
+    - is used to control the flow of a script or a programme and rely on conditions.
     For example: `if(something) {display something} else {display somethingelse}`
 - JS identifiers
     - are names that are given to entities like variables, functions, class, etc.
@@ -92,11 +92,11 @@ Prints the string "Helloworld" in the console.
 Prints the number 46 in the console.
 
 ```alert("Hello")```
-Prints the string "Hello" in the dialog box in your browser.
+Prints the string "Hello" in the dialogue box in your browser.
 
 You can use the console in the developer tools of your browser to play around with some JavaScript code.
 
-#### Visual Studio Code extenstions
+#### Visual Studio Code extensions
 Some very useful extensions in Visual Studio Code for JavaScript are:
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint): Linting is the automated checking of your source code for programmatic and stylistic errors.
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): JavaScript formatter. It removes all original styling and ensures that all outputted JavaScript conforms to a consistent style.
