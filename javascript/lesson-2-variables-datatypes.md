@@ -101,7 +101,8 @@ More examples:
 ```
 let carModel = "Jaguar XF";
 let carOwner = "Jane";
-console.log(`The owner of this ${carModel} car is ${carOwner}`);
+let ownerStatement = "The owner of this ${carModel} car is ${carOwner}"
+console.log(ownerStatement);
 let statementUpper = ownerStatement.toLocaleUpperCase();
 let statementlength = statementUpper.length;
 console.log(statementlength);
