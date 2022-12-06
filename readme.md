@@ -1,6 +1,6 @@
 # Cheat Sheet
 
-This cheat sheet can be used to refer to materials from the lessons covered in our Code Like a Girl courses. test message.
+This cheat sheet can be used to refer to materials from the lessons covered in our Code Like a Girl courses.
 
 ## git
 
