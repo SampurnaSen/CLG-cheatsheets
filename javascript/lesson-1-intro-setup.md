@@ -2,7 +2,7 @@
 
 ### Projected Time
 
-About 2 hours
+About 2 hours..
 
 ### Prerequisites
 
